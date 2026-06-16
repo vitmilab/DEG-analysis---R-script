@@ -35,7 +35,7 @@ GSE80699
 3. Gene Ontology enrichment analysis
 4. Software Requirements
 
-External Validation
+--> External Validation
 
 The four prioritized candidate hub genes were evaluated using the independent drought-stress RNA-seq dataset GSE80699.
 
